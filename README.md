@@ -4,7 +4,7 @@
 
 Let's raise the bar a little in terms of the use of Object Oriented Programming concepts with the problems presented in this activity.
 
-Topics Covered:
+#### Topics Covered:
 
 · Apply the use of abstract classes and interfaces in PHP.
 
